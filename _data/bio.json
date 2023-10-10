@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "Elvis Habib Akadjame",
+    "label": "Software Developer",
+    "picture": "https://avatars.githubusercontent.com/u/124185236?v=4",
+    "website": "https://elvishabib.github.io",
+    "summary": "I am currently a Back-End Developer at Trellix, working on very exciting projects. I have a passion for using technology to solve real-world problems.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Cotonou",
+      "countryCode": "Benin",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "elvishabib",
+        "url": "https://github.com/elvishabib"
+      },
+      {
+        "network": "linkedin",
+        "username": "elvishabib",
+        "url": "https://www.linkedin.com/in/elvishabib/"
+      },
+      {
+        "network": "twitter",
+        "username": "elvis_habib",
+        "url": "https://twitter.com/elvis_habib"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Software Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Data Science",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Javascript",
+        "PHP",
+        "HTML",
+        "CSS",
+        "C/C++",
+        "Shell"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level":"",
+      "keywords": [
+        "FastAPI",
+        "Django",
+        "Flask",
+        "Express",
+        "React",
+        "Symfony",
+        "Laravel",
+        "Sklearn",
+        "Keras",
+        "TensorFlow",
+        "PyTorch"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "AWS",
+        "GCP",
+        "Digital Ocean",
+        "Deta Space",
+        "Docker",
+        "Kubernetes"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Epitech - Coding Academy",
+      "area": "Certificate, Full-Stack Web Developer, Data Science and Machine Learning",
+      "endDate": "2023"
+    },
+    {
+      "institution": "University of Abomey-Calavi - Institute of Mathematics and Physics - IMSP",
+      "area": "Master of Science, Operations Research",
+      "endDate": "2018"
+    },
+    {
+      "institution": "University of Abomey-Calavi - Institute of Computer Science - IFRI",
+      "area": "Bachelor of Science, Computer Science and Engineering",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Higher School of Telecommunications of Benin - Sup Telecoms Bj",
+      "area": "Bachelor of Science, Telecommunications Engineering",
+      "endDate": "2015"
+    }
+  ],
+  "work": [
+    {
+      "company": "Trellix",
+      "position": "Software Developer",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Taraji Technologies",
+      "position": "Managing Partner",
+      "startDate": "2019",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Oryx Energies",
+      "position": "I.T Technician",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ]
+}
